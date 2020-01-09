@@ -1,0 +1,36 @@
+# Awesome Flutter
+
+## Widget Catalogs
+
+https://itsallwidgets.com/
+
+## Packages
+https://pub.dev/packages/flutter_playout
+https://pub.dev/packages/flutter_launcher_icons
+https://github.com/xqwzts/flutter_circular_chart
+https://github.com/xqwzts/flutter_sparkline
+https://pub.dev/packages/matrix4_transform
+https://github.com/danvick/flutter_form_builder
+https://github.com/aloisdeniel/flutter_staggered_animation
+https://pub.dev/packages/flutter_swiper
+https://pub.dev/packages/intro_views_flutter
+
+## Articles
+
+https://flutterx.com/aloisdenielflutter-staggered-animation-2019-06-30
+
+
+## Blogs
+http://flutter.education
+https://fidev.io/
+https://flutterx.com
+https://startflutter.com/
+
+
+## Components
+
+https://github.com/jhomlala/feather
+https://github.com/EsmerlinJM/Card-Wallet-App
+https://github.com/syncfusion/flutter-examples
+
+## Tuts
