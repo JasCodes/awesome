@@ -1,10 +1,10 @@
-# Awesome Flutter
+Awesome Flutter
 
-## Widget Catalogs
+Widget Catalogs
 
 https://itsallwidgets.com/
 
-## Packages
+Packages
 https://pub.dev/packages/flutter_playout
 https://pub.dev/packages/flutter_launcher_icons
 https://github.com/xqwzts/flutter_circular_chart
@@ -15,22 +15,23 @@ https://github.com/aloisdeniel/flutter_staggered_animation
 https://pub.dev/packages/flutter_swiper
 https://pub.dev/packages/intro_views_flutter
 
-## Articles
+Articles
 
 https://flutterx.com/aloisdenielflutter-staggered-animation-2019-06-30
 
 
-## Blogs
+Blogs
 http://flutter.education
 https://fidev.io/
 https://flutterx.com
 https://startflutter.com/
 
 
-## Components
+Components
 
 https://github.com/jhomlala/feather
 https://github.com/EsmerlinJM/Card-Wallet-App
 https://github.com/syncfusion/flutter-examples
 
-## Tuts
+Tuts
+Slivers https://www.youtube.com/watch?v=wN2lpqxkB4M
