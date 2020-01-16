@@ -24,6 +24,8 @@ https://flutterx.com/aloisdenielflutter-staggered-animation-2019-06-30
 
 
 Blogs
+https://www.reddit.com/r/FlutterDev/
+https://medium.com/flutter-community
 http://flutter.education
 https://fidev.io/
 https://flutterx.com
