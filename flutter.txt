@@ -40,3 +40,9 @@ https://github.com/syncfusion/flutter-examples
 
 Tuts
 Slivers https://www.youtube.com/watch?v=wN2lpqxkB4M
+
+Snipets
+Setting skia internals
+SystemChannels.skia.invokeMethod<void>('Skia.setResourceCacheMaxBytes', 256 << 20);
+
+
