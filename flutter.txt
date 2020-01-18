@@ -1,7 +1,31 @@
 Awesome Flutter
 
-Widget Catalogs
 
+Showcase
+https://github.com/gskinnerTeam/flutter_vignettes
+https://fidev.io/ - Travel, Theanos etc
+https://github.com/jhomlala/feather
+https://github.com/EsmerlinJM/Card-Wallet-App
+https://github.com/syncfusion/flutter-examples
+
+
+Articles
+https://flutterx.com/aloisdenielflutter-staggered-animation-2019-06-30
+
+Blogs
+https://www.reddit.com/r/FlutterDev/
+https://medium.com/flutter-community
+http://flutter.education
+https://fidev.io/
+https://flutterx.com
+https://startflutter.com/
+
+
+Tuts
+Slivers https://www.youtube.com/watch?v=wN2lpqxkB4M
+
+
+Widget Catalogs
 https://itsallwidgets.com/
 
 Packages
@@ -20,28 +44,6 @@ https://github.com/ardera/flutter-pi
 Plugins
 https://github.com/cloudwebrtc/flutter-webrtc
 
-Articles
-
-https://flutterx.com/aloisdenielflutter-staggered-animation-2019-06-30
-
-
-Blogs
-https://www.reddit.com/r/FlutterDev/
-https://medium.com/flutter-community
-http://flutter.education
-https://fidev.io/
-https://flutterx.com
-https://startflutter.com/
-
-
-Components
-
-https://github.com/jhomlala/feather
-https://github.com/EsmerlinJM/Card-Wallet-App
-https://github.com/syncfusion/flutter-examples
-
-Tuts
-Slivers https://www.youtube.com/watch?v=wN2lpqxkB4M
 
 Snipets
 Setting skia internals
