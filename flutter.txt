@@ -42,6 +42,7 @@ https://pub.dev/packages/flutter_swiper
 https://pub.dev/packages/intro_views_flutter
 https://pub.dev/packages/frideos
 https://github.com/ardera/flutter-pi
+https://github.com/entronad/flutter_echarts
 
 Plugins
 https://github.com/cloudwebrtc/flutter-webrtc
