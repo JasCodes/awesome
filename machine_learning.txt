@@ -6,3 +6,7 @@ https://github.com/huggingface/transformers
 
 Blogs
 https://blog.francium.tech/@navarasu
+
+Image generation StyleGan2 
+https://www.youtube.com/watch?v=SWoravHhsUU
+https://github.com/NVlabs/stylegan2
