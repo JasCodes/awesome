@@ -1,1 +1,5 @@
 https://github.com/gkjohnson/three-mesh-bvh
+http://mantaflow.com/
+https://users.cg.tuwien.ac.at/zsolnai/gfx/real_time_fluid_control_eg/
+https://github.com/gpujs/gpu.js#demos
+http://gpu.rocks/
