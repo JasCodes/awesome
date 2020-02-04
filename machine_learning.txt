@@ -3,6 +3,7 @@ https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-yea
 
 NLP
 https://github.com/huggingface/transformers
+https://medium.com/stackchain/drivers-license-ocr-cnh-with-python-opencv-and-tesseract-21b0388ae101
 
 Blogs
 https://blog.francium.tech/@navarasu

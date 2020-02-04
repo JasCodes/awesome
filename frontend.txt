@@ -1,0 +1,64 @@
+2D
+====
+Kute enables animation for various SVG specific CSS properties
+http://thednp.github.io/kute.js/svg.html
+
+Two.js is a two-dimensional drawing api
+https://two.js.org/#introduction
+
+2d webgl web engine
+http://www.pixijs.com/
+
+Konva is an HTML5 Canvas JavaScript framework that extends the 2d context
+by enabling canvas interactivity for desktop and mobile applications.
+https://konvajs.github.io/docs/ 
+
+3D
+=========
+20 Javascript animation library worth looking forward to in 2018
+http://www.phpxs.com/post/6119/
+
+THREEJS
+Use threejs with react
+https://itnext.io/how-to-use-plain-three-js-in-your-react-apps-417a79d926e0
+
+react-particles-js
+https://github.com/Wufe/react-particles-js
+
+react-fluid-simulator
+https://github.com/transitive-bullshit/react-fluid-animation
+https://paveldogreat.github.io/WebGL-Fluid-Simulation/
+
+Particle toris
+https://codepen.io/sungaila/pen/LzgRoN
+
+three.proton is a magical 3d particle engine 
+https://a-jie.github.io/three.proton/
+
+expirements
+https://www.jotform.com/blog/20-exceptional-three-js-experiments-98740/
+
+GLSL
+makepad glsl in js
+https://makepad.github.io
+https://www.youtube.com/watch?v=l2z3UvzXTf4
+
+Aframe
+https://aframe.io
+
+webgl 3d models
+https://sketchfab.com/
+
+gl-react - React library to write and compose WebGL shaders
+https://gl-react-cookbook.surge.sh/
+
+sketchjs is old webgl examples
+multitouch, particles, plasma effect etc
+http://soulwire.github.io/sketch.js/
+
+Render old html in webgl
+http://htmlgl.com/
+
+Generative art collection blog
+https://deconbatch.blogspot.com/search/label/Generative%20Art?max-results=10
+
