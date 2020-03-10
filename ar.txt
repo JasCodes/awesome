@@ -1,0 +1,28 @@
+https://github.com/holokit/holokitsdk
+
+=====
+nfc
+=====
+https://en.wikipedia.org/wiki/Biometric_passport#Data_protection
+https://security.stackexchange.com/questions/30772/what-nfc-protocol-is-used-to-read-information-on-a-passport
+MRZ
+https://github.com/konstantint/PassportEye
+
+https://github.com/italia/cie-mrtd-dotnet-sdk
+
+https://github.com/rubund/mrtdreader
+
+https://github.com/Glamdring/epassport-reader
+https://jmrtd.org/
+
+https://github.com/kansasdev/mrtd
+https://github.com/kansasdev/PassportApp
+
+=====
+vr ideas
+=====
+helmet for sci-fi bikes
+https://www.youtube.com/watch?v=jt324afcIYg
+
+
+VR kart - https://www.youtube.com/watch?v=x7Grrfv6AP8

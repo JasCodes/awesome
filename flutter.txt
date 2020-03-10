@@ -1,5 +1,9 @@
 Awesome Flutter
-
+https://github.com/xvrh/lottie-flutter
+https://github.com/smkhalsa/gql_client
+https://zhuanlan.zhihu.com/p/46982762
+https://medium.com/flutter-community/a-deep-dive-into-pageview-in-flutter-with-custom-transitions-581d9ea6dded
+https://github.com/JonathanMonga/flutter_gradients
 Showcase
 https://github.com/gskinnerTeam/flutter_vignettes
 https://fidev.io/ - Travel, Theanos etc
@@ -14,10 +18,17 @@ https://github.com/mjohnsullivan/flutter-by-example
 https://github.com/vineeshvk/chat-app-flutter
 https://github.com/nisrulz/flutter-examples
 https://github.com/iamSahdeep/liquid_swipe_flutter
+https://www.youtube.com/watch?v=xUbpdW1qWxc
+https://github.com/jiang111/flutter_code
+https://github.com/themaaz32/Flultter-Reponsive-UI
+https://github.com/MrAlek/flutter-create-liquid-physics
 
 
 Articles
 https://flutterx.com/aloisdenielflutter-staggered-animation-2019-06-30
+https://flutterigniter.com/dismiss-keyboard-form-lose-focus/
+https://medium.com/flutter-community/animate-your-ui-when-keyboard-appears-in-flutter-86465a2a70a4
+
 
 Blogs
 https://www.reddit.com/r/FlutterDev/
@@ -31,7 +42,7 @@ https://startflutter.com/
 Tuts
 Slivers https://www.youtube.com/watch?v=wN2lpqxkB4M
 Maps fine https://www.youtube.com/watch?v=McPzVZZRniU&loop=0
-
+Curves https://www.youtube.com/watch?v=qnnlGcZ8vaQ
 
 Widget Catalogs/Lists
 =====================
@@ -57,6 +68,8 @@ https://github.com/entronad/flutter_echarts
 https://github.com/HitenDev/flutter_effects
 https://pub.dev/packages/flutter_interactive_keyboard
 https://github.com/fayeed/dash_chat
+https://pub.dev/packages/ndialog
+https://github.com/octomato/preload_page_view
 
 DevTools
 ==========

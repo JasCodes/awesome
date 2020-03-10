@@ -2,7 +2,9 @@ AwesomeList
 https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7
 
 NLP
+https://talktotransformer.com/
 https://github.com/huggingface/transformers
+https://spacy.io/
 https://medium.com/stackchain/drivers-license-ocr-cnh-with-python-opencv-and-tesseract-21b0388ae101
 
 Blogs
@@ -11,3 +13,21 @@ https://blog.francium.tech/@navarasu
 Image generation StyleGan2 
 https://www.youtube.com/watch?v=SWoravHhsUU
 https://github.com/NVlabs/stylegan2
+
+https://github.com/jantic/DeOldify
+https://github.com/DmitryUlyanov/deep-image-prior
+https://github.com/alexjc/neural-enhance
+
+3d reconstruction
+https://github.com/ialhashim/DenseDepth
+https://github.com/nianticlabs/monodepth2
+https://github.com/topics/depth-estimation
+https://github.com/natowi/3D-Reconstruction-with-Neural-Network
+
+https://github.com/rasbt/deeplearning-models
+https://github.com/natowi/3D-Reconstruction-with-Neural-Network
+https://github.com/ayushidalmia/awesome-fashion-ai
+https://github.com/onnx/models
+https://github.com/timzhang642/3D-Machine-Learning
+https://github.com/timzhang642/3D-Machine-Learning
+https://github.com/vchoutas/smplify-x
