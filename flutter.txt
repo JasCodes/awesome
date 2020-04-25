@@ -23,6 +23,9 @@ https://github.com/jiang111/flutter_code
 https://github.com/themaaz32/Flultter-Reponsive-UI
 https://github.com/MrAlek/flutter-create-liquid-physics
 
+https://github.com/Solido/flutter-d-art
+https://blurha.sh/
+
 
 Articles
 https://flutterx.com/aloisdenielflutter-staggered-animation-2019-06-30

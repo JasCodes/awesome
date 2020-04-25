@@ -62,3 +62,6 @@ http://htmlgl.com/
 Generative art collection blog
 https://deconbatch.blogspot.com/search/label/Generative%20Art?max-results=10
 
+https://swiperjs.com/demos/#3D_cube_effect
+
+https://animista.net/play/entrances/flicker-in

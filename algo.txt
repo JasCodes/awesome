@@ -1,0 +1,5 @@
+Searching implemenations
+
+*javascript*
+js-search
+lunrjs - https://en.wikipedia.org/wiki/Okapi_BM25

@@ -31,3 +31,6 @@ https://github.com/onnx/models
 https://github.com/timzhang642/3D-Machine-Learning
 https://github.com/timzhang642/3D-Machine-Learning
 https://github.com/vchoutas/smplify-x
+
+** tts
+https://github.com/PaddlePaddle/Parakeet
